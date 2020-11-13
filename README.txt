@@ -1,4 +1,3 @@
-
 Hallo,
 
 um meine Datenvisualisierung auszuprobieren, must du den Ordner "RobinKurz_IG2A_Earthquake.zip" herunterladen.
